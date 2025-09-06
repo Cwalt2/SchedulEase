@@ -67,14 +67,22 @@ enhance your application
 #### Requirements 3
 
 - User Interviews: Conduct interviews with at least 6 potential users
+  - Interview 1
+    - Demographics and background
+      - college student
+    - Goals and motivations
+      - to graduate college as a mechanical engineer
+    - Pain points and frustrations
+      - reading textbooks
+    - Technology comfort level
+      - comfortable with technology. No command line skills
+    - Relationship with AI/automation
+      - occasional usage
+    - Context of use scenarios
+      - create study guides and summarize articles
 - Research Synthesis: Identify key user needs, pain points, and goals
 - Persona Development: Create 3 detailed user personas including:
-  - Demographics and background
-  - Goals and motivations
-  - Pain points and frustrations
-  - Technology comfort level
-  - Relationship with AI/automation
-  - Context of use scenarios
+
 
 #### AI-Specific Considerations
 
@@ -82,9 +90,13 @@ enhance your application
   - Manually schedule these dates such as class schedules by hand for a single 4 month semester.
   - Having to look through syllabuses to schedule important exam dates
   - Reading a long document with a ton of copied or unnecessary information
+  - Uses apple calendar
+  - reads through all syllabuses
+  - manually schedules events/tests
 - What are their expectations and concerns about AI-powered solutions?
   - It will take their jobs
   - It will rise up and turn evil
   - It will schedule events wrong
+  - taking over teaching does not want automated classes
 - What level of AI transparency do they need?
   - How the information is being used (if being stolen/trained)
